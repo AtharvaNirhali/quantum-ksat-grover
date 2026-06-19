@@ -2,31 +2,19 @@
 
 This project implements Grover's Quantum Search Algorithm using Qiskit to solve K-SAT problems. The solution leverages quantum superposition and amplitude amplification to achieve a quadratic speedup over classical brute-force search.
 
-## System Architecture
-
-![Architecture](docs/diagrams/architecture.png)
-
 ## Workflow:
 
 CNF Input
-    ↓
+    ->
 Oracle Construction
-    ↓
+    ->
 Diffusion Operator
-    ↓
+    ->
 Grover Iterations
-    ↓
+    ->
 Quantum Measurement
-    ↓
+    ->
 Solution Extraction
-
-## Oracle Circuit
-
-![Oracle](results/circuits/oracle_circuit.png)
-
-## Grover Circuit
-
-![Grover](results/circuits/grover_circuit.png)
 
 ## Experimental Results
 
