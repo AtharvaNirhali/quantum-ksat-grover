@@ -56,7 +56,7 @@ jupyter notebook notebooks/Grover_KSAT_Demo.ipynb
 
 ## Publications
 
-Patil A., Malwade R., Nirhali A., Panchal S.
+Nirhali A., Patil A., Malwade R., Panchal S.
 
 "Implementation of Efficient Quantum Computing Algorithm for Searching"
 
