@@ -16,9 +16,15 @@ Quantum Measurement
     ->
 Solution Extraction
 
+## Result
+
+![Histogram](results/histogram/output.png)
+
+Output of 4 clause 4 variable kSAT problem
+
 ## Experimental Results
 
-![Histogram](docs/comparison/experiment_result.png)
+![Histogram](docs/comparison/executionTime.png)
 
 
 ## Performance Comparison
