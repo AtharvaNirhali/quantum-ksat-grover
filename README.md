@@ -20,7 +20,7 @@ Solution Extraction
 
 ![Histogram](results/histogram/output.png)
 
-Output of 4 clause 4 variable kSAT problem
+Output of 4-SAT, 5 Clauses
 
 ## Experimental Results
 
