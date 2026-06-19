@@ -18,7 +18,8 @@ Solution Extraction
 
 ## Experimental Results
 
-![Histogram](results/histograms/result_histogram.png)
+![Histogram](docs/comparison/experiment_result.png)
+
 
 ## Performance Comparison
 
